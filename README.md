@@ -1,2 +1,2 @@
-# my-project
-All project of Java, PHP 
+# my-projects
+All projects using Java & related frameworks 
